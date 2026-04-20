@@ -4,3 +4,4 @@ flask
 gtts
 transformers
 torch
+pydub
