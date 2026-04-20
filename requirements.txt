@@ -1,2 +1,6 @@
-
+pipwin==0.5.1  
 gunicorn
+flask
+gtts
+transformers
+torch
