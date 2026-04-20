@@ -5,3 +5,4 @@ gtts
 transformers
 torch
 pydub
+speechrecognition==3.8.1  
